@@ -1,2 +1,10 @@
-# Market-Overview-Indexes-Forex-Metals-Crypto
-This project is a comprehensive dashboard designed to provide a consolidated view of key financial markets, including global stock indexes, forex currencies, precious metals, and cryptocurrencies. It aims to offer real-time data aggregation, trend analysis, and insightful visualizations for traders, investors, and market enthusiasts.
+# [📺 Market Overview Indexes Forex Metals Crypto 💹](https://idouble.github.io/Market-Overview-Indexes-Forex-Metals-Crypto)
+📺 A Market Overview with the Federal Funds Rate and the price movements of Market Indexes, Forex, Metals and Crypto 💹
+
+![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
+
+**Link** : **[https://idouble.github.io/Market-Overview-Indexes-Forex-Metals-Crypto](https://idouble.github.io/Market-Overview-Indexes-Forex-Metals-Crypto)**
+
+![Market Overview Federal Funds Rate price movements Indexes Forex Metals and Crypto](Images/Market-Overview-Indexes-Forex-Metals-Crypto.png)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
